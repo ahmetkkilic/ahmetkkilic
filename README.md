@@ -11,6 +11,6 @@
 
 
 <p align="center">
-        <img src="" alt="Github Stats" />
+        <img src="marginalia-programming.gif" alt="Github Stats" />
 </p>
 
