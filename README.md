@@ -11,5 +11,7 @@
 
 
 <p align="center">
-        <img src="https://media.tenor.com/lfJem--ZGzUAAAAC/typing-keyboard.gif" alt="Github Stats" />
+        <img src="" alt="Github Stats" />
 </p>
+
+Illustration by <a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
