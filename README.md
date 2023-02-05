@@ -1,8 +1,15 @@
 
 
+>
 
 
 
 
+![Ahmet Kılıç's GitHub Stat](https://github-readme-stats.vercel.app/api?username=ahmetkkilic&show_icons=true&bg_color=00000000) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkilic&layout=compact&show_icons=true&bg_color=00000000)](https://github.com/ahmetkkilic/github-readme-stats) 
 
-<p style="center">![Ahmet Kılıç's GitHub Stat](https://github-readme-stats.vercel.app/api?username=ahmetkkilic&show_icons=true&bg_color=00000000) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkilic&layout=compact&show_icons=true&bg_color=00000000)](https://github.com/ahmetkkilic/github-readme-stats) </p>
+
+
+
+<p align="center">
+        <img src="https://media.tenor.com/lfJem--ZGzUAAAAC/typing-keyboard.gif" alt="Github Stats" />
+</p>
